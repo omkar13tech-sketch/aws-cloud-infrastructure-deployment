@@ -154,32 +154,25 @@ The default Nginx welcome page was successfully displayed, confirming that:
 ## 📸 Screenshots
 
 ### VPC
-
-![VPC](screenshots/vpc.png)
+![VPC](vpc.png)
 
 ### Subnets
-
-![Subnets](screenshots/subnets.png)
+![Subnets](subnets.png)
 
 ### Internet Gateway
-
-![Internet Gateway](screenshots/internet-gateway.png)
+![Internet Gateway](internet-gateway.png)
 
 ### Route Table
-
-![Route Table](screenshots/route-table.png)
+![Route Table](route-table.png)
 
 ### Security Group
-
-![Security Group](screenshots/security-group.png)
+![Security Group](security-group.png)
 
 ### EC2 Instance
-
-![EC2 Instance](screenshots/ec2-instance.png)
+![EC2 Instance](ec2-instance.png)
 
 ### Nginx Web Page
-
-![Nginx](screenshots/nginx.png)
+![Nginx](nginx.png)
 
 ---
 
