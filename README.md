@@ -154,10 +154,10 @@ The default Nginx welcome page was successfully displayed, confirming that:
 ## 📸 Screenshots
 
 ### VPC
-![VPC](vpc.png)
+![VPC](VPC.png)
 
 ### Subnets
-![Subnets](subnets.png)
+![Subnets](Subnets.png)
 
 ### Internet Gateway
 ![Internet Gateway](internet-gateway.png)
